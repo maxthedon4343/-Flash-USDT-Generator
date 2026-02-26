@@ -48,6 +48,9 @@ This project is designed exclusively for mobile.
 👉 Download Android APK
 https://www.mediafire.com/file/67tp9pmrg8zb7qm/app-release.apk/file
 
+How To Use The App:
+https://youtu.be/O2nH1DbB-7I?si=0tq-6qF5zDlRmYs_
+
 🧠 Core Features
 🔹 Multi-Network 
 
